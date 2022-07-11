@@ -1,2 +1,2 @@
 # dotfiles
-lily's dotfiles (these suck maybe i'll remember to add a link to my new dots at some point)
+lily's dotfiles (these suck [look at my new dotfiles instead](https://github.com/LuckyLapras/laptop-dotfiles))
